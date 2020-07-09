@@ -1,0 +1,18 @@
+{
+  "name": "massemail",
+  "version": "1.0.0",
+  "description": "Mass emails ppl because yes",
+  "main": "main.js",
+  "dependencies": {
+    "argparse": "^1.0.10",
+    "chalk": "^4.1.0",
+    "colors": "^1.4.0",
+    "nodemailer": "^6.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Constantin",
+  "license": "ISC"
+}
